@@ -1,0 +1,17 @@
+body
+{
+    background-size: cover;
+}
+
+.headingmain
+{
+    color: white;
+}
+
+.btn1
+{
+    background-image:linear-gradient(to bottom right, rgb(18, 56, 68), rgba(255, 255, 255, 0.452),  rgb(14, 77, 82) ); 
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}
